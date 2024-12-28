@@ -1,5 +1,7 @@
 # Amazon Shipping Analytics
 
+## DASHBOARD LINK : https://public.tableau.com/app/profile/priyansh.maheshwari8603/viz/AmazonShippingAnalytics_17353675640000/Dashboard1?publish=yes
+
 ###  Overview 
 
 Amazon Shipping is a company which ships a variety of FMCG (Fast Moving Consumer Goods) all over the world.

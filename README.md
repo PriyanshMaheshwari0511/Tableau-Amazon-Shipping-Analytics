@@ -11,7 +11,6 @@ He has given us csv files from which we have to create a Dashboard for his quick
 
 Thus, we created below interactive dashboard as per his requirement. Now, he could switch and view different shipping stats for different months and years.   
 
-You can view Amazon Shipping Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/profile/utkarsh.yadav6297#!/  
 
 
 
